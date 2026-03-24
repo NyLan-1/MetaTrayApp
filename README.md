@@ -13,6 +13,14 @@ This utility watches for that window and closes it the same way as clicking the 
 - watches for the Meta Horizon Link window
 - sends it to the tray when detected
 
+## Download
+
+[Download the latest installer](https://github.com/NyLan-1/MetaTrayApp/releases/latest)
+
+Or download the current setup directly:
+
+[MetaTrayApp-Setup-v1.0.0.exe](https://github.com/NyLan-1/MetaTrayApp/releases/download/v1.0.0/MetaTrayApp-Setup-v1.0.0.exe)
+
 ## Installation
 
 There are two ways to install MetaTrayApp.
